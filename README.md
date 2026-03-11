@@ -1,10 +1,12 @@
-# BudgetBytes Recipe Data Acquisition
+# Budget Bytes Recipe Data Acquisition
 
-This project scrapes recipe data from BudgetBytes including:
+This project applies newly learned web scraping skills to collect recipe data from the *Budget Bytes* website.
+
+Recipe information was scraped from the site's main dish pages, including:
 - recipe title
-- cost
+- total cost
 - cost per serving
 - prep time
 - cook time
 
-The dataset is used for exploratory analysis of recipe cost and cooking time relationships. 
+The resulting dataset is used for exploratory analysis of relationships between recipe cost and cooking time. 
